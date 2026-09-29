@@ -1,16 +1,30 @@
 ## Hi there 👋
+# Hi, I'm Sabeeh Ahmad Khan 👋
 
-<!--
-**janicvs125-collab/janicvs125-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BS Artificial Intelligence (BSAI)** Student at Emerson University Multan (2025 - 2029)  
+💻 Passionate about Python programming, Artificial Intelligence, and Machine Learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+* **Languages:** Python
+* **Tools:** Google Colab, VS Code
+
+---
+
+### 🏆 Certifications
+* 📜 **AI For Everyone** – DeepLearning.AI  
+ [ Certificate](certificate.jpg)
+
+---
+
+### 💻 Projects
+* 🌡️ **Temperature Analysis & Monitoring**  
+  A Python and Google Colab project analyzing temperature data.  
+  [View Project](https://github.com/janicvs125-collab/Collab-project-for-find-temperature-)
+
+---
+
+### 📫 Connect With Me
+* GitHub: [janicvs125-collab](https://github.com/janicvs125-collab)
+* 
